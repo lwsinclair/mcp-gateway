@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aarora79-mcp-gateway-badge.png)](https://mseep.ai/app/aarora79-mcp-gateway)
+
 # MCP Gateway
 
 ![Hugging Face Token Masking Example](docs/MCP_Flow.png)
